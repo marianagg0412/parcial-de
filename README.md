@@ -73,4 +73,4 @@ This project demonstrates a complete data engineering pipeline for extracting, t
 
 ---
 
-**Author:** [Your Name]
+**Author:** Mariana González
